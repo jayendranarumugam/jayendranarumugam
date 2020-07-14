@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m Jayendran
-- 💰 Accrediations : https://www.youracclaim.com/users/jayendran-arumugam/
+- 💰 Accreditation : https://www.youracclaim.com/users/jayendran-arumugam/
 - 🐦 I'm twitter [@jayendran_a](https://twitter/jayendran_a)
 - 🌱 I’m currently learning into Azure,AI,MLOps
 - 💬 Ask me about Cloud ☁️,Azure,PowerBI
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Cloud ☁️,Azure,PowerBI
 
-- 💰 Accrediations : [Jayendran Arumugam](https://www.youracclaim.com/users/jayendran-arumugam/)
+- 💰 Accreditation : [Jayendran Arumugam](https://www.youracclaim.com/users/jayendran-arumugam/)
 
 - 🐦 I'm on twitter [@jayendran_a](https://twitter/jayendran_a)
 
