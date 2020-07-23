@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://img.shields.io/badge/Microsoft-MCT-blue)
 
 - 🔭 I’m Jayendran Arumugam
 
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: http://jayendran.com
 
 - 😄 Pronouns: He/Him/His
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=jayendranarumugam&show_icons=true)
