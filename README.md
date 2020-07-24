@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m Jayendran Arumugam
 
-- 👯 I've contriuted on [Stackoverflow](https://stackoverflow.com/users/7073340/jayendran) , [PowerBI Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/100012) , [Dev.to](https://dev.to/jayendran) , [TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/tags/jayendran/default.aspx)
+- 👯 I've contributed on [Stackoverflow](https://stackoverflow.com/users/7073340/jayendran) , [PowerBI Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/100012) , [Dev.to](https://dev.to/jayendran) , [TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/tags/jayendran/default.aspx)
 
 - 💬 Ask me about Cloud ☁️,Azure,PowerBI
 
