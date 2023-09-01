@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/Microsoft-MCT-blue)
+![](https://img.shields.io/badge/Microsoft-MCT-blue) ![](https://komarev.com/ghpvc/?username=jayendranarumugam&style=flat-square)
 
 - 🔭 I’m Jayendran Arumugam
 
