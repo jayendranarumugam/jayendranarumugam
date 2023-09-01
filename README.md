@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🐦 I'm twitter [@jayendran_a](https://twitter/jayendran_a)
 - 🌱 I’m currently learning into Azure,AI,MLOps
 - 💬 Ask me about Cloud ☁️,Azure,PowerBI
-- 📫 How to reach me: http://jayendran.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
