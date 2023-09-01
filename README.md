@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 - 🤔 I'm on LinkedIn [Jayendran Arumugam](https://www.linkedin.com/in/jayendran-arumugam-%E2%98%81%E2%98%81-76906a100/)
 
-- 📫 How to reach me: http://jayendran.com
-
 - 😄 Pronouns: He/Him/His
 
 <a href="https://github.com/jayendranarumugam/github-readme-stats">
