@@ -4,7 +4,7 @@
 
 - 🔭 I’m Jayendran Arumugam
 
-- 👯 I've contributed on [Stackoverflow](https://stackoverflow.com/users/7073340/jayendran) , [PowerBI Community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/100012) , [Dev.to](https://dev.to/jayendran) , [TechNet Wiki](https://social.technet.microsoft.com/wiki/contents/articles/tags/jayendran/default.aspx)
+- 👯 I've contributed on [Stackoverflow](https://stackoverflow.com/users/7073340/jayendran) , [PowerBI Community](https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/100012) and [Dev.to](https://dev.to/jayendran) 
 
 - 💬 Ask me about Cloud ☁️,Azure,PowerBI
 
