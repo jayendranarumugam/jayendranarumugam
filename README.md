@@ -8,11 +8,11 @@
 
 - 💬 Ask me about Cloud ☁️,Azure,PowerBI
 
-- 💰 Accreditation : [Jayendran Arumugam](https://www.youracclaim.com/users/jayendran-arumugam/)
+- 💰 Accreditation : [Jayendran Arumugam](https://www.credly.com/users/jayendran/badges)
 
 - 🐦 I'm on twitter [@jayendran_a](https://twitter/jayendran_a)
 
-- 🤔 I'm on LinkedIn [Jayendran Arumugam](https://www.linkedin.com/in/jayendran-a-76906a100/)
+- 🤔 I'm on LinkedIn [Jayendran Arumugam](https://www.linkedin.com/in/jayendran-arumugam/)
 
 - 😄 Pronouns: He/Him/His
 
